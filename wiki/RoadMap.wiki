@@ -4,7 +4,7 @@
 = Introduction =
 
 Unit testing in ActionScript is nothing new and there are many existing tools for it. Therefore our approach is to make a reduced and easy to use framework that does not require much knowhow and gives you a good start.
-Unlike other frameworks the main goal of this project is to try out interesting layouts and visualizations of the test results.
+Unlike other frameworks the main goal of this project is to try out interesting layouts and visualizations on the test results.
 
 
 = Details =
