@@ -11,7 +11,7 @@ Unlike other frameworks the main goal of this project is to try out interesting 
 
 So here is a rough road map:
  
-* *Alpha*
+===Alpha===
  * Basic unit testing capabilities
  * asserts
  * introspection to find the test methods
@@ -19,7 +19,7 @@ So here is a rough road map:
  * Test Duration
  * a basic result page, layout is not a list.
 
-* *Beta*
+===Beta===
  * Different layouts and visualizations
  * Visualization/metrics on test execution and duration
  * Async Testing
