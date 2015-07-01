@@ -1,0 +1,22 @@
+# Introduction #
+
+Unit testing in ActionScript is nothing new and there are many existing tools for it. Therefore our approach is to make a reduced and easy to use framework that does not require much knowhow and gives you a good start.
+Unlike other frameworks the main goal of this project is to try out interesting layouts and visualizations on the test results.
+
+
+# Details #
+
+So here is a rough road map:
+
+### Alpha ###
+  * Basic unit testing capabilities
+  * asserts
+  * introspection to find the test methods
+  * TestCase and TestSuite
+  * Test Duration
+  * a basic result page, layout is not a list.
+
+### Beta ###
+  * Different layouts and visualizations
+  * Visualization/metrics on test execution and duration
+  * Async Testing
